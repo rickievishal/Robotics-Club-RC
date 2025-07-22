@@ -10,8 +10,8 @@ you will have the directory over here
         |
         |___ Ardiuno 
         |       |____Esp32.cpp
-        |.      |
-        |.      |____Readme.md
+        |       |
+        |       |____Readme.md
         |
         |
         |___ ...rest of the files
