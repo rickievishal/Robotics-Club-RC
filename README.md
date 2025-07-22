@@ -1,10 +1,10 @@
-#Robotic Club's RC Builder workshop
-##Day 1
-###This section is about you developing and controlling the esp32 remotely using http request
+# Robotic Club's RC Builder workshop
+## Day 1
+### This section is about you developing and controlling the esp32 remotely using http request
 
 you will have the directory over here 
 
-##the file structure:
+## the file structure:
 
     robotics-club-rc
         |
@@ -16,7 +16,7 @@ you will have the directory over here
         |
         |___ ...rest of the files
 
-#to Start the frontend
+# to Start the frontend
 follow the following steps
 
 **step 1** : move to the directory robotics-club-rc by using `cd robotics-club-rc`
